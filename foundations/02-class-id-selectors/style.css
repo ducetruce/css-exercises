@@ -1,0 +1,18 @@
+/* styles.css */
+
+    .odd-element {
+        background-color: rgb(245, 153, 169);
+        font-family: "Verdana", "DejaVu Sans", sans-serif;
+    }
+    #one-id {
+        color: blue ;
+        font-size: 36px;
+    }
+    #two-id {
+        background-color: lightgreen;
+        font-weight: bold;
+        font-size: 24px;
+    }
+    .big-element {
+        font-size: 24px;
+    }
